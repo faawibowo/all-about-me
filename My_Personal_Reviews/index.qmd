@@ -7,79 +7,135 @@ ChatGPT melakukan self-assessment UTS-1 s.d. UTS-5 langsung dari laman yang Anda
 
 ## Identifikasi
 
-* Nama & NIM penulis: **Armein Z. R. Langi – 131902360** (tertera di halaman depan portofolio). ([II 2100][1])
-* Penilai: **Self-assessment (Armein Z. R. Langi)**
+* Nama & NIM penulis: **Muhammad Farrel Wibowo – 13523153** 
+* Penilai: **Self-assessment (Muhammad Farrel Wibowo)**
 * Catatan cakupan: halaman beranda memuat “About Me”; navigasi ke “My Songs for You”, “My Stories for You”, “My Shapes”, dan “My Personal Reviews” tersedia. ([II 2100][1])
 
-## Tinjauan Umum
+## 5.1 Unduh Lembar Skor Lengkap
 
-* **UTS-1 (All About Me)** hadir di beranda (“Selamat Berjumpa / About Me”). Isi memperkenalkan identitas dan latar personal secara padat. ([II 2100][1])
-* **UTS-2 (My Songs for You)** memuat judul karya dan tautan audio, namun lirik/isi tidak ditampilkan di halaman (file audio tidak bisa saya akses dari sini), sehingga penilaian konten terbatas pada kelengkapan presentasi. ([II 2100][2])
-* **UTS-3 (My Stories for You)** berisi tautan ke beberapa cerita; konten naratif kuat, terutama pada kisah keluarga “Gaun Pengantin Gladys” serta kisah inspiratif lainnya. ([II 2100][3])
-* **UTS-4 (My SHAPE)** saat ini halaman kosong/tanpa isi, hanya navigasi. ([II 2100][4])
-* **UTS-5 (My Personal Reviews)** berisi metode/tautan panduan review, namun belum ada contoh **review personal** yang lengkap terhadap sebuah pesan/teks. ([II 2100][5])
+Rekapitulasi skor kuantitatif dari Self-Assessment dan Peer-Assessment tersedia dalam format CSV di bawah ini, mengikuti template *Lembar Skor*.
 
----
-
-## Tinjauan Spesifik + Skor (1–5)
-
-### UTS-1 — All About Me (di beranda)
-
-**Skor per kriteria:** Orisinalitas **3**, Keterlibatan **3**, Humor **1**, Wawasan/Insight **3** → **Total 10/20 (50%)**.
-**Alasan singkat:** Perkenalan diri faktual dan jelas, namun gaya masih informatif ketimbang naratif (minim humor dan moment “hook”). ([II 2100][1])
-**Saran perbaikan:** Buka dengan anekdot pribadi (1–2 paragraf) yang “mengikat” (mis. titik balik karier/keluarga), tambahkan satu momen humor ringan, lalu tutup dengan refleksi singkat tentang nilai/visi diri agar aspek insight naik.
-
-### UTS-2 — My Songs for You
-
-**Skor per kriteria:** Orisinalitas **2**, Keterlibatan **2**, Humor **1**, Inspirasi **2** → **Total 7/20 (35%)**.
-**Alasan singkat:** Halaman menampilkan judul lagu “River in my Mind”, “Heaven on Earth”, namun tanpa lirik/cerita di balik lagu sehingga sulit menilai aspek pesan, humor, dan inspirasi. ([II 2100][2])
-**Saran perbaikan:** Tambahkan lirik lengkap, 1 paragraf cerita proses kreatif, dan 2–3 kalimat “pesan untukmu” agar inspirasi terbaca; sertakan player/tautan yang dapat diputar langsung + fallback transkrip.
-
-### UTS-3 — My Stories for You
-
-**Skor per kriteria:** Orisinalitas **5**, Keterlibatan **5**, Pengembangan Narasi **4**, Inspirasi **5** → **Total 19/20 (95%)**.
-**Alasan singkat:** Cerita “Gaun Pengantin Gladys” dkk sangat personal, emosional, dan inspiratif; ritme bertutur hidup serta detail situasional kuat (konten ramu unsur penebusan/keluarga/iman). ([II 2100][3])
-**Saran perbaikan:** Tambah “lead” 2–3 kalimat yang merangkum pesan kunci tiap cerita; akhiri dengan ajakan/refleksi 1–2 kalimat agar resonansi ke pembaca makin jelas.
-
-### UTS-4 — My SHAPE
-
-**Skor per kriteria:** Orisinalitas **1**, Keterlibatan **1**, Pengembangan **1**, Inspirasi **1** → **Total 4/20 (20%)**.
-**Alasan singkat:** Konten belum tersedia. ([II 2100][4])
-**Saran perbaikan (prioritas):**
-
-1. Tampilkan rekap SHAPE (Spiritual gifts, Heart, Abilities, Personality, Experiences) dalam 1 tabel ringkas + 3–5 butir bukti;
-2. Narasikan 2 pengalaman kunci (±150 kata/each) yang menunjukkan “signature strengths”;
-3. Tutup dengan 3 rencana aksi konkret (who/what/when).
-
-### UTS-5 — My Personal Reviews
-
-**Skor per kriteria:** Pemahaman Konsep **2**, Analisis Kritis **1**, Argumentasi (Logos) **1**, Etos & Empati **2**, Rekomendasi **1** → **Total 7/25 (28%)**.
-**Alasan singkat:** Halaman berisi metode cara menilai, tetapi **belum ada** contoh **review personal** yang lengkap terhadap sebuah pesan/teks sehingga aspek analisis-argumentasi tak terbaca. ([II 2100][5])
-**Saran perbaikan:** Pilih 1 karya personal (mis. UTS-1/2/3), tulis review 400–600 kata: ringkas pesan, nilai dengan rubrik, berikan 2–3 bukti kutipan, evaluasi etos/empati, lalu tutup dengan rekomendasi perbaikan spesifik.
+📎 **Unduh Lembar Skor Lengkap (Self + Peer)**  
+*(tautan file CSV disertakan di sini)*
 
 ---
 
-## Rekap Skor (ringkas)
+## 5.2 Self-Assessment (Muhammad Farrel Wibowo – 13523153)
 
-* **UTS-1:** 10/20 → **50%**
-* **UTS-2:** 7/20 → **35%**
-* **UTS-3:** 19/20 → **95%**
-* **UTS-4:** 4/20 → **20%**
-* **UTS-5:** 7/25 → **28%**
+Berikut hasil penilaian terhadap portofolio saya sendiri:  
+ [https://faawibowo.github.io/all-about-me/](https://faawibowo.github.io/all-about-me/)
 
-CSV lengkap sudah saya siapkan untuk dokumentasi dan olah lanjut: [Download CSV ringkasan](sandbox:/mnt/data/UTS_self_assessment.csv).
+### 5.2.1 Tinjauan Umum & Skor Ringkas
 
-## Langkah Perbaikan Cepat (prioritas 1 minggu)
+| UTS | Judul | Ringkasan Evaluasi | Skor |
+|-----|--------|--------------------|------|
+| **UTS-1** | *All About Me* |  | |
+| **UTS-2** | *My Songs for You* |  |  |
+| **UTS-3** | *My Stories for You* |  |  |
+| **UTS-4** | *My SHAPE* |  | |
 
-1. **Lengkapi UTS-4 (My SHAPE)** sesuai saran di atas;
-2. **Tambahkan lirik + sinopsis** untuk tiap lagu di UTS-2 agar bisa dinilai isi/inspirasinya;
-3. **Tulis 1 review personal penuh** (UTS-5) memakai rubrik (pilih salah satu karya Anda sendiri sebagai objek);
-4. Revisi UTS-1 dengan pembuka anekdot + refleksi nilai diri.
+---
 
-Jika Anda mau, saya bisa bantu merapikan UTS-4 (tabel SHAPE + narasi) dan membuat kerangka cepat untuk **review** di UTS-5 dari salah satu karya Anda.
+### 5.2.2 Penilaian UTS-5 (Self-Assessment Ini)
 
-[1]: https://ii-2100.github.io/all-about-me/ "Armein Z. R. Langi"
-[2]: https://ii-2100.github.io/all-about-me/My_Song_for_You/index.html "2  My Songs for You – Armein Z. R. Langi"
-[3]: https://ii-2100.github.io/all-about-me/My_Stories_for_You/index.html "3  My Stories for You – Armein Z. R. Langi"
-[4]: https://ii-2100.github.io/all-about-me/My_Shapes/index.html "4  My Shapes – Armein Z. R. Langi"
-[5]: https://ii-2100.github.io/all-about-me/My_Personal_Reviews/index.html "5  My Personal Reviews – Armein Z. R. Langi"
+| Kriteria | Skor |
+|-----------|------|
+| Pemahaman Konsep |  |
+| Analisis Kritis |  |
+| Argumentasi (Logos) |  |
+| Etos & Empati | N/A |
+| Rekomendasi |  |
+| **Total** | **** |
+
+📝 **Alasan singkat:** 
+
+---
+
+### 5.2.3 Saran Perbaikan untuk Diri Sendiri
+
+- **Visual UTS-4:** Menambahkan tabel ringkasan *S-H-A-P-E* di awal halaman `My_Shapes/index.qmd` akan meningkatkan keterlibatan visual dan memperkuat struktur narasi.
+
+---
+
+## 5.3 Peer-Assessment
+
+Berikut hasil penilaian terhadap portofolio rekan-rekan mahasiswa. Penilaian dilakukan berdasarkan rubrik UTS-1 hingga UTS-4.
+
+---
+
+### 5.3.1 Penilaian untuk: Jonathan Kenan Budianto (13523139)
+
+🔗 URL Portofolio: [https://jonathankenan.github.io/all-about-me/](https://jonathankenan.github.io/all-about-me/)
+### 5.3.1 Penilaian untuk: Jonathan Kenan Budianto (13523139)
+
+🔗 **URL Portofolio**: `https://jonathankenan.github.io/all-about-me/`
+
+**Tinjauan Umum:**  
+Portofolio menunjukkan kualitas luar biasa dan sangat matang. Terdapat benang merah narasi yang kuat dan konsisten di semua tugas (UTS-1 s/d UTS-4) yang berpusat pada nilai-nilai keluarga (empati, humor, dan semangat memberdayakan). Penulis berhasil merangkai setiap bagian menjadi cerita personal yang utuh dan berdampak.
+
+**Kekuatan Utama:**  
+- Konsistensi Narasi: Mampu menghubungkan setiap tugas (dari "Akar" di UTS-1 hingga "SHAPE" di UTS-4) menjadi satu cerita yang koheren.
+- Wawasan Mendalam: Refleksi tajam dan matang, seperti "empati bukanlah sebuah teori, melainkan sebuah tindakan nyata" (UTS-1) dan "memberdayakan orang lain adalah aktualisasi diri yang paling sejati" (UTS-3).
+- Kualitas Penulisan: Sangat memikat, dengan humor yang relevan dan efektif.
+
+**Skor Rata-Rata:**  
+UTS-1: 4.6 | UTS-2: 4.8 | UTS-3: 4.5 | UTS-4: 5.0
+
+**Saran Perbaikan (berdasarkan rubrik UTS-5):** 
+- Analisis kritisnya (untuk diri sendiri dan rekan) sangat tajam, logis, dan berimbang.
+- Rekomendasi perbaikan yang diberikan sangat konkret dan aplikatif.
+- Tidak ada saran perbaikan yang signifikan untuk tugas ini.
+
+---
+
+### 5.3.2 Penilaian untuk: M. Abizzar Gamadrian (13523155)
+
+🔗 URL Portofolio: [ https://abizzarg.github.io/all-about-me/](https://abizzarg.github.io/all-about-me/)
+
+**Tinjauan Umum:**  
+menunjukkan konsistensi dalam menggambarkan perjalanan pribadi dengan refleksi yang kuat. Narasi terasa jujur dan cukup mendalam, meski masih dapat ditingkatkan dalam aspek orisinalitas dan kekayaan gaya penceritaan. Gagasan-gagasan yang muncul berakar pada pengalaman nyata dan menunjukkan perkembangan pemahaman diri.
+
+**Kekuatan Utama:**  
+- Keterlibatan tinggi: setiap tugas mampu menjaga atensi pembaca dengan gaya penulisan yang mengalir.
+- Kohesi tema: keempat UTS saling terhubung dan memperlihatkan pertumbuhan personal.
+- Etos reflektif: menunjukkan pemahaman diri serta nilai interpersonal yang baik.
+
+**Skor Rata-Rata:**  
+UTS-1: 4.3 | UTS-2: 4.2 | UTS-3: 4.5 | UTS-4: 4.6
+
+**Saran Perbaikan (berdasarkan rubrik UTS-5):**  
+- Pemahaman Konsep Interpersonal: perlu dikaitkan lebih eksplisit dengan teori atau prinsip komunikasi yang dipelajari.
+
+- Analisis Kritis Pesan: tingkatkan ketajaman analisis; hindari kesimpulan umum tanpa bukti reflektif.
+
+- Etos & Empati: sudah baik; pertahankan keseimbangan antara kejujuran pribadi dan kepekaan terhadap audiens.
+
+---
+
+### 5.3.3 Penilaian untuk: Ahmad Syafiq (13523135)
+
+🔗 URL Portofolio: [https://iammadsfq.github.io/all-about-me/](https://iammadsfq.github.io/all-about-me/)
+
+**Tinjauan Umum:**  
+Portofolio Ahmad menunjukkan konsistensi dalam membangun pesan personal yang reflektif dan komunikatif. Gaya tulisnya jujur, apa adanya, dan mudah diikuti. Secara keseluruhan, narasi tersampaikan dengan jelas, meskipun masih dapat diperdalam dari sisi orisinalitas dan daya tarik visual agar setiap bagian terasa lebih hidup dan unik.
+
+**Kekuatan Utama:**  
+- Refleksi diri yang autentik dan relevan dengan konteks personal.
+- Narasi terstruktur dengan alur yang logis dan kohesif.
+- Integrasi media pendukung (teks dan visual) sederhana namun efektif.
+
+**Skor Rata-Rata:**  
+UTS-1: 4.3 | UTS-2: 4.5 | UTS-3: 4.6 | UTS-4: 4.7 
+
+**Saran Perbaikan (berdasarkan rubrik UTS-5):**  
+- Perkuat aspek analisis kritis agar setiap refleksi tidak hanya deskriptif, tetapi juga argumentatif.
+- Tambahkan sentuhan inspiratif atau humor ringan untuk meningkatkan keterlibatan pembaca.
+- Kembangkan keterkaitan antar tugas (UTS-1 s.d. UTS-4) sehingga muncul benang merah yang memperlihatkan perkembangan personal secara lebih nyata.
+- Sertakan rekomendasi konkret tentang bagaimana wawasan interpersonal yang diperoleh dapat diterapkan di kehidupan akademik maupun sosial.
+
+---
+
+## 5.4 Kesimpulan Umum
+
+Baik *Self-Assessment* maupun *Peer-Assessment* menunjukkan konsistensi dalam menilai aspek orisinalitas, keterlibatan, dan kedalaman refleksi.  
+Setiap portofolio memiliki keunikan gaya komunikasi interpersonal yang dapat terus ditingkatkan melalui keseimbangan antara **emosi, humor, dan insight reflektif.**
