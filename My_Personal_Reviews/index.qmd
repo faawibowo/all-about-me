@@ -29,10 +29,10 @@ Berikut hasil penilaian terhadap portofolio saya sendiri:
 
 | UTS | Judul | Ringkasan Evaluasi | Skor |
 |-----|--------|--------------------|------|
-| **UTS-1** | *All About Me* |Narasi kuat, reflektif; humor ada tapi tipis.  |17.0/20 |
-| **UTS-2** | *My Songs for You* |Koneksi lagu–diri autentik; ada sisipan puisi & refleksi.  | 17.0/20 |
-| **UTS-3** | *My Stories for You* |Benang merah “redemption” & agensi konsisten  |17.0/20  |
-| **UTS-4** | *My SHAPE* |SHAPE lengkap (ringkasan, charter, 90-hari); bisa diringkas visual.  |17.0/20 |
+| **UTS-1** | *All About Me* |Humor & narasi personal yang hidup.  |19.0/20 (95%)|
+| **UTS-2** | *My Songs for You* |Kejujuran emosional & orisinalitas makna  | 17.0/20 (85%) |
+| **UTS-3** | *My Stories for You* |Cerita inspiratif & resonansi emosi  |19.0/20  (95%)|
+| **UTS-4** | *My SHAPE* |SHAPE lengkap (ringkasan, charter, 90-hari); bisa diringkas visual.  |18.0/20(90%) |
 
 ---
 
@@ -52,11 +52,11 @@ Menjelaskan metode (pakai ChatGPT), menyediakan TOC Self/Peer Assessment, ringka
 ---
 
 ### 5.2.3 Saran Perbaikan untuk Diri Sendiri
-- Tambahkan “lapisan bukti” eksplisit (semua UTS): kutip kalimat/line yang jadi dasar klaim, lalu tafsirkan → kurangi vagueness. (Contoh UTS-1 kutip L69–L80 untuk “agensi”, lalu jelaskan batasnya.) 
-- UTS-4—Ringkasan visual 1 layar: tabel S-H-A-P-E + 3 KPI 90-hari (OKR mini) di very-top agar pembaca “menangkap” dalam 10 detik. 
-- Confirmation bias (UTS-2): sertakan lirik/interpretasi yang menentang pesan ketulusan Anda—lalu bantah dengan alasan. 
-- Narrative fallacy (UTS-1/3): tulis satu vignette “gagal tapi tidak romantis”—apa pelajaran tanpa happy ending? 
-- TS-5—Tautan data & metrik: saat menilai peer, lampirkan skor per kriteria + rujukan bagian/line; rumuskan 1 action item terukur per peer (owner, due date, success metric). 
+- Lapisan bukti eksplisit (semua UTS): kutip baris/kalimat yang jadi dasar klaim, lalu tafsirkan → kurangi pernyataan generik tanpa dukungan teks.
+- UTS-1 & 3 – Narrative Depth: tulis satu vignette “gagal tanpa romantisasi”; refleksi pada pelajaran yang tidak berujung bahagia agar insight lebih otentik.
+- UTS-2 – Confirmation Bias: tampilkan lirik atau tafsir alternatif yang menentang pesan ketulusan Anda, lalu sanggah dengan alasan personal/logis.
+- UTS-4 – Visualisasi Strategis: buat ringkasan SHAPE 1-layar (tabel S-H-A-P-E + 3 OKR 90 hari) agar pembaca langsung memahami misi dan rencana aksi.
+- UTS-5 – Data & Metrik Review: sertakan skor per kriteria dan rujukan bagian teks ketika menilai diri/peer; rumuskan 1 action item terukur (owner, due date, success metric).
 
 ---
 
