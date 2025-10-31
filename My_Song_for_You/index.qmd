@@ -10,15 +10,14 @@ Club Eighties
 
 #### Makna dan Alasan Pemilihan Lagu
 
-Lagu “Dari Hati” dipilih karena memiliki makna yang sangat mendalam tentang kejujuran, kesungguhan, dan ketulusan dalam mencintai seseorang. Bagi saya, lagu ini menggambarkan bentuk cinta yang sederhana, jujur, dan tanpa syarat—cinta yang tidak dibungkus oleh ambisi atau kepemilikan, melainkan oleh keberanian untuk mengungkapkan perasaan yang paling murni: “Ku ingin jujur apa adanya, dari hati.”
+Saya memilih lagu **“Dari Hati”** bukan hanya karena nadanya enak didengar saat hujan turun sambil ngoding, tapi karena liriknya punya *debug power* tersendiri: bisa menenangkan pikiran yang sedang *syntax error* karena cinta.  
+Lagu ini sederhana, jujur, dan tidak berusaha jadi romantis berlebihan. Ia berbicara tentang kejujuran dan kerentanan — sesuatu yang sering kita hindari, terutama kalau kamu tipe orang yang bilang “nggak apa-apa kok” padahal tab browser sudah penuh lirik galau.
 
-Lagu ini menjadi inspirasi sekaligus refleksi untuk karya pribadi saya, “My Songs for U”, yaitu sebuah lagu yang saya tulis dan ingin nyanyikan pada hari pernikahan saya nanti. Lagu itu bukan sekadar persembahan musik, tetapi bentuk nyata dari doa dan perasaan terdalam terhadap pasangan saya kelak—bahwa cinta yang baik tidak perlu banyak kata, cukup datang dari hati dan dijaga dengan sepenuh hati.
+Bait *“Ku ingin jujur apa adanya, dari hati”* jadi refleksi tentang bagaimana mencintai tanpa kode rahasia: tidak perlu `if-else`, cukup `return honesty;`.  
+Itulah yang membuat saya jatuh cinta pada lagu ini — ia menulis ulang cinta dengan bahasa manusia, bukan algoritma.
 
-Seperti dalam lirik “Dari Hati”, kejujuran menjadi fondasi yang saya yakini harus hadir dalam setiap hubungan. Bagian “Ku ingin kau menjadi milikku, entah bagaimana caranya” tidak dimaknai sebagai kepemilikan egoistik, melainkan sebagai bentuk niat tulus untuk berbagi perjalanan hidup bersama seseorang yang kita yakini sebagai belahan hati.
-Lirik tersebut juga menandakan kerendahan hati di tengah ketidakpastian, bahwa cinta tidak selalu bisa dikontrol, namun dapat dijaga dengan keikhlasan.
 
-Bagi saya, lagu ini adalah narasi cinta dewasa—tentang seseorang yang tidak lagi ingin menaklukkan, melainkan berjuang bersama; yang tidak lagi bicara tentang “aku dan kamu”, tetapi tentang “kita”. Itulah sebabnya saya ingin mengabadikan semangat yang sama melalui lagu “My Songs for U”, yang kelak akan saya nyanyikan pada hari pernikahan saya sebagai simbol perjalanan hidup yang berpuncak pada makna: mencintai dengan jujur, dari hati.
-
+### Lirik Lagunya
 [Intro]
 Andai engkau tahu
 Bila menjadi aku, sejuta rasa di hati
@@ -66,36 +65,43 @@ Dari hati
 
 
 ### Narasi Personal  
-Aku pertama kali mendengar lagu ini bukan di radio, melainkan dari speaker murahan di kantin kampus yang lebih sering bocor daripada jernih. Tapi justru di situ, di sela-sela suara gorengan dan tawa teman-teman, aku mendengar liriknya berbeda: bukan sekadar lagu cinta, tapi catatan kecil tentang ketulusan yang diam-diam aku butuhkan.
+Saya pertama kali mendengar lagu ini bukan di konser, bukan juga dari playlist Spotify, tapi dari **speaker kantin kampus** yang kualitasnya lebih mirip toa masjid yang pensiun dini.  
+Tapi entah kenapa, di tengah suara gorengan, sendok jatuh, dan teman-teman debat soal tugas, liriknya menembus semua kebisingan itu.
 
-> *“Ku tulus mencintaimu… dari hati.”*  
->
-> Kalimat sederhana itu menampar lembut. Dulu aku pikir mencintai selalu butuh hasil—balasan, pengakuan, atau minimal notifikasi. Lagu ini membuatku sadar bahwa mencintai bisa jadi latihan melepas kendali: memberi tanpa menagih, berjuang tanpa selalu menang.
+> *“Ku ingin jujur apa adanya, dari hati.”*
 
-Aku sempat iseng menulis ulang liriknya di catatan kuliah *Basis Data*:  
-> “Ku tulus mengerjakan SQL-mu… dari hati.”  
+Kalimat itu seperti pesan error yang sulit di-*ignore*.  
+Saya yang biasanya logis, tiba-tiba merasa dipanggil untuk berhenti berpura-pura kuat.  
+Selama ini saya pikir mencintai itu tentang memiliki; ternyata, seperti coding, yang penting bukan siapa yang menjalankan, tapi siapa yang tetap *maintain* meski sering crash.
 
-Dosenku mungkin tidak akan tertawa, tapi bagiku itu satu-satunya cara bertahan di tengah tugas yang menumpuk.
+Lagu ini lucunya ikut hadir di berbagai fase absurd hidup saya:
+- Saat skripsi mini kacau dan saya mengganti `SELECT * FROM` dengan `SELECT * FROM hati;`
+- Saat ngopi jam 2 pagi sambil menatap *deadline* yang lebih dingin dari kopi itu sendiri.
+- Saat sadar bahwa "jujur" bukan berarti harus benar terus, tapi berani mengakui ketika salah.
 
-Namun lebih dari sekadar lucu-lucu, lagu ini menempel karena ada pantulan diriku di dalamnya: seseorang yang keras kepala ingin semua hal berjalan sesuai rencana—hingga akhirnya belajar bahwa ketulusan tidak menuntut kontrol.
+Lagu ini bukan sekadar lagu cinta — ini reminder agar saya tetap jujur pada proses hidup, entah dalam hubungan atau proyek kelompok yang server-nya down.
+
 
 ---
 
 ### Karya Respon: *Puisi Pendek*
-> Nada yang dulu kuanggap sepele,  
-> kini jadi ruang bernafas di antara laporan dan deadline.  
+
+> Tak semua cinta butuh jawaban,  
+> kadang cukup dieksekusi tanpa `WHERE` atau `LIMIT`.  
 >
-> Dari hati, bukan dari ekspektasi—  
-> sebab yang tulus tak butuh saksi.  
+> Hati bukan database, tapi tetap butuh *commit* agar tak kehilangan jejak.  
 >
-> Jika lagu ini bisa menjawab,  
-> mungkin ia hanya akan bilang,  
-> “Tenang, yang kau berikan tak pernah sia-sia.”
+> “Dari hati,” katanya,  
+> dan aku percaya —  
+> bahkan kode yang paling sederhana pun  
+> bisa menjalankan cinta yang paling tulus. 
 
 ---
 
 ### 💭 Refleksi  
-Setiap kali lagu ini diputar, aku diingatkan bahwa ketulusan adalah bentuk logika paling rumit: ia tak bisa dijelaskan, hanya bisa dijalani.  
-“Dari Hati” bukan lagi lagu romantis, melainkan doa kecil agar aku tetap bisa mencintai proses, bukan sekadar hasil—baik dalam hubungan, karya, maupun hidup sendiri.
+“Dari Hati” mengingatkan saya bahwa ketulusan adalah logika paling irasional yang pernah ada — tidak bisa di-*compile*, tapi bisa dirasakan.  
+Ia mengajarkan bahwa memberi tanpa mengharap balasan bukanlah kelemahan, tapi bentuk tertinggi dari kesadaran diri.  
+Ketika saya mendengar lagu ini hari ini, saya tidak lagi berpikir tentang siapa yang akan saya cintai nanti, tapi *bagaimana caranya saya bisa tetap mencintai dengan jujur* — baik kepada orang lain, pekerjaan, maupun diri sendiri.
+
 
 ---

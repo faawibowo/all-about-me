@@ -3,94 +3,75 @@
 ![About Me](../images/profile-pict.jpeg){width=950%}
 
 
-“Tahun itu saya duduk di depan layar laptop, menunggu hasil SNBT dengan jantung seperti disetel metronom. Detik berganti, dan layar menampilkan dua kata yang terasa menampar: ‘Tidak Lulus.’ Namun, kegagalan itu justru membuka jendela baru — bukan ke arah yang saya rencanakan, tapi ke jalan yang membuat saya belajar ulang arti ‘membangun sesuatu dari nol.’”
+“Tahun itu saya duduk di depan laptop dengan ekspresi antara pasrah dan penasaran—mirip wajah mahasiswa yang menunggu nilai akhir di KRS. Layar menampilkan dua kata yang sukses bikin jantung pindah ke tenggorokan: **‘Tidak Lulus.’**  
+Bukannya menangis, saya malah membuka YouTube dan menonton video motivasi—yang ironisnya diawali iklan *Shopee Payday Sale*. Tapi justru dari situ saya sadar: hidup bukan soal jalur SNBT atau Mandiri, tapi soal siapa yang paling tahan saat server penuh.”
 
-Hai perkenalkan saya Muhammad Farrel Wibowo, mahasiswa Teknik Informatika Institut Teknologi Bandung angkatan 2023. Lahir di Jakarta pada 18 Juni 2005, kini menetap di Jatinangor untuk menjalani aktivitas perkuliahan, sementara rumah keluarganya masih berada di Jakarta.
-Sejak kecil Farrel sudah akrab dengan dunia teknologi—mulai dari smartphone, komputer, hingga internet—yang menumbuhkan rasa ingin tahu tentang bagaimana teknologi bekerja dan bagaimana ia dapat mengubah kehidupan manusia.
+Hai, saya **Muhammad Farrel Wibowo**, mahasiswa **Teknik Informatika ITB 2023**.  
+Lahir di Jakarta, besar di antara kabel charger yang hilang dan update Windows yang tak berkesudahan. Kini saya tinggal di Jatinangor—tempat di mana kopi dan Wi-Fi menjadi dua sumber energi utama.  
+Teknologi bagi saya bukan sekadar perangkat keras dan kode, tapi juga *teman ngobrol* yang tidak pernah bosan mendengarkan *error log* saya.
 
-Sehari-hari, Farrel dikenal sebagai sosok yang disiplin, pekerja keras, dan reflektif. Ia memiliki berbagai hobi seperti olahraga gym, fotografi, otomotif, videografi, dan tenis. Namun di balik banyaknya minat tersebut, benang merah yang mengikat semuanya adalah rasa ingin belajar dan berkembang secara berkelanjutan.
 
 
 ## **Kisah yang Membentuk Diri Anda: Mengenal Kekuatan Identitas Naratif**
 
-Saya percaya bahwa setiap orang adalah pencerita alami yang menenun kehidupannya menjadi sebuah kisah. Bagi saya, kisah itu dimulai dari rasa ingin tahu yang sederhana terhadap teknologi, lalu berkembang menjadi perjalanan penuh pembelajaran, perjuangan, dan pemaknaan diri.
+Saya tumbuh dengan rasa ingin tahu yang agak berlebihan terhadap hal-hal teknis: bagaimana mesin cuci bisa berhenti sendiri, kenapa *loading bar* selalu berhenti di 99%, dan kenapa printer selalu rusak saat deadline.  
+Di **MAN 4 Jakarta**, saya belajar menggabungkan logika dengan kreativitas—bergabung di klub robotika dan teknologi informasi.  
+Puncaknya, tim kami mendapat medali perak di **AISEF** berkat proyek *Early Warning Flood System*.  
+Saat itu saya sadar: teknologi bukan sekadar “keren”, tapi juga bisa mencegah orang telat kabur dari banjir—itulah versi saya dari *superhero moment.*
 
-Di masa SMA di MAN 4 Jakarta, saya mengambil jurusan Sains dan Matematika dengan kurikulum Cambridge AS Level. Dari situlah saya mulai memadukan logika dengan kreativitas. Saya bergabung di klub robotika dan klub teknologi informasi, di mana saya belajar membangun robot serta memprogramnya dengan Arduino IDE. Salah satu momen berharga adalah ketika tim saya berhasil meraih medali perak pada ASEAN Innovative Science & Entrepreneur Fair (AISEF) berkat proyek Early Warning Flood System berbasis Arduino, Wi-Fi, dan Blynk.
-Kemenangan itu bukan sekadar prestasi, tetapi momen berkilau—saat saya menyadari bahwa teknologi bukan hanya tentang kode dan alat, melainkan tentang solusi yang menyentuh kehidupan manusia.
 
 
 ### **1. Tiga Lapisan Diri Anda: Di Mana Cerita Hidup Anda Berada?**
 
 Mengikuti kerangka dari Dan P. McAdams, saya bisa memetakan perjalanan diri saya sebagai berikut:
 
-Level 1: Sifat Dasar. Saya cenderung disiplin, logis, dan berorientasi pada hasil. Namun, di balik itu saya juga reflektif dan tenang—lebih banyak mengamati sebelum bertindak.
+| Level | Deskripsi | Debug Note |
+|:------|:-----------|:-----------|
+| **1. Traits (Sifat Dasar)** | Disiplin, logis, reflektif. Kadang terlalu serius. | *Work in progress: belajar bercanda tanpa menimbulkan bug percakapan.* |
+| **2. Personal Concern** | Menghargai proses dan kegigihan; melihat gagal sebagai “versi beta dari sukses.” | *Masalah muncul jika versi beta ini terlalu sering di-update tanpa tidur cukup.* |
+| **3. Narrative Identity** | Melihat hidup sebagai proyek open source: terbuka untuk kontribusi dan perbaikan. | *Merge request selalu diterima asal disertai niat baik.* |
 
-Level 2: Kepedulian Pribadi. Nilai yang saya pegang adalah tanggung jawab terhadap proses dan keberanian untuk menghadapi kegagalan. Saya percaya bahwa setiap kesalahan adalah bentuk pembelajaran yang penting.
-
-Level 3: Identitas Naratif. Inilah titik di mana seluruh lapisan diri saya bertemu. Saya melihat diri saya sebagai seseorang yang terus belajar dari masa lalu, memperjuangkan apa yang diinginkan, dan berusaha berkontribusi lewat teknologi yang bermanfaat bagi orang lain.
-
-Salah satu peristiwa yang paling membentuk identitas saya adalah ketika saya gagal masuk perguruan tinggi melalui jalur SNBT. Kegagalan itu sempat menimbulkan rasa kecewa, tetapi justru menjadi titik balik. Saya belajar untuk bangkit, berjuang kembali melalui jalur Mandiri ITB, dan akhirnya diterima di jurusan impian saya. Perjalanan itu mengajarkan bahwa hasil besar tidak datang dari keberuntungan, melainkan dari konsistensi dan keyakinan.
-
+Kegagalan SNBT jadi *milestone bugfix* pertama saya. Jalur Mandiri ke ITB bukan rute darurat, tapi pembuktian bahwa kadang *error 404* berarti “Opportunity Not Found—Yet.”
 
 ### **2. Pola-Pola Kisah Kehidupan: Apa yang Membuat Sebuah Cerita Bermanfaat?**
 
 Cerita hidup saya mencerminkan pola penebusan (redemption)—dari kegagalan menuju keberhasilan, dari keterbatasan menuju kesempatan baru. Kegagalan masuk kampus favorit bukan akhir cerita, tetapi bab pembuka dari narasi yang lebih bermakna.
 Kini, setelah menjadi mahasiswa, saya juga mulai mengembangkan pola agensi dan koneksi, di mana peran saya tidak lagi sebatas individu yang berjuang, tetapi bagian dari ekosistem yang saling tumbuh bersama.
 
-|                                         |                                                                                                                                                     |
-| --------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Pola Naratif**                        | **Dampak Psikologis dan Pembelajaran Pribadi**                                                                                                      |
-| **Penebusan** (Negatif → Positif)       | Gagal di SNBT menjadi titik balik untuk membangun ketekunan dan rasa percaya diri dalam meraih ITB melalui jalur mandiri.                           |
-| **Agensi** (Diri sebagai Aktor Efektif) | Mengembangkan kemampuan kepemimpinan, pengambilan keputusan, dan inisiatif, seperti saat memimpin proyek di TEC dan mengikuti hackathon.            |
-| **Koneksi** (Hubungan & Rasa Memiliki)  | Menemukan makna dalam kerja sama tim dan kontribusi kolektif, misalnya saat menjadi staf HMIF dan anggota ITB Jazz.                                 |
-| **Momen Berkilau**                      | Juara 3 **Hackathon** pertama saya di perkuliahan menjadi simbol bagaimana kolaborasi, kecepatan berpikir, dan disiplin teknis dapat membawa hasil. |
+
+| Pola | Dampak & Pembelajaran |
+|:-----|:-----------------------|
+| **Penebusan (Negatif → Positif)** | Dari gagal SNBT ke lulus ITB lewat jalur Mandiri. Belajar sabar menunggu hasil bukan cuma di website pendaftaran tapi juga dalam hidup. |
+| **Agensi (Aktor Efektif)** | Menjadi mentor TEC, ikut hackathon, dan belajar bahwa tim kuat bukan yang tak pernah debat, tapi yang bisa debat tanpa uninstall Discord. |
+| **Koneksi (Rasa Memiliki)** | Di HMIF dan ITB Jazz, saya menemukan bahwa irama kerja tim sama pentingnya dengan harmoni musik. |
+| **Momen Berkilau** | Juara 3 Hackathon pertama: kombinasi antara *panic coding* dan *coffee overdose* yang ternyata efektif. |
 
 
 
 ### **3. Seni Memberi Makna: Kekuatan Super Anda dalam Bernalar**
+Saya belajar bahwa kesalahan bukan musuh, tapi *unit test* dari semesta.  
+Ketika server crash di tengah presentasi hackathon, saya tidak panik—saya hanya berkata, “Tenang, ini cuma simulasi stres.”  
+Bagi saya, berpikir jernih di tengah kekacauan adalah bentuk spiritualitas versi *techie*.
 
-Saya tidak pernah menganggap kesalahan sebagai musuh, melainkan guru. Setiap kegagalan—baik dalam ujian, proyek, maupun keputusan—membentuk cara berpikir saya yang lebih tenang dan strategis. Selama berkuliah di ITB, saya menyadari bahwa menjadi mahasiswa bukan hanya tentang menguasai algoritma atau pemrograman, tetapi juga belajar bagaimana berpikir jernih di tengah tekanan dan berinteraksi dengan berbagai karakter.
+Hackathon itu memberi empat pelajaran hidup:
+1. **Framing masalah** lebih penting dari jumlah baris kode.  
+2. **Kolaborasi cepat** lebih efektif daripada “brainstorming abadi.”  
+3. **Integrasi cepat** lebih berharga dari teori sempurna.  
+4. **Storytelling produk** harus jujur; jangan jualan “AI” kalau sebenarnya cuma *if-else*.
 
-Momentum baru saya hadir ketika tim kami meraih Juara 3 Hackathon—lomba pertama saya selama kuliah. Selain validasi kerja tim, kompetisi ini memberikan pembelajaran yang sangat praktis:
-
-Framing masalah & scoping MVP: menajamkan batas solusi agar berdampak nyata dalam waktu terbatas.
-
-Kolaborasi teknis di bawah tekanan waktu: branching Git yang rapi, code review singkat namun tegas, dan keberanian membuat trade-off teknis.
-
-Integrasi cepat & reliability dasar: mengikat API, merapikan error handling, serta memastikan demo berjalan stabil.
-
-Storytelling produk: menyusun pitch yang jelas—dari problem statement, insight pengguna, ke nilai guna—tanpa gimmick berlebihan.
-
-Pengalaman ini menegaskan kembali bahwa agensi bukan semata kemampuan teknis, melainkan keputusan-keputusan kecil yang konsisten: memilih prioritas, menjaga ritme tim, dan bertanggung jawab atas kualitas hasil.
-
-Kesadaran terbesar saya tetap sama: dunia ini tidak berputar di sekitar diri saya sendiri. Setiap orang memiliki kisah, perjuangan, dan maknanya masing-masing. Menyadari hal ini membuat saya lebih menghargai keberagaman dan lebih rendah hati dalam proses belajar maupun berorganisasi. Dari sinilah lahir keseimbangan antara ambisi dan empati.
+Kesadaran terbesar saya: dunia ini bukan kompetisi siapa paling pintar, tapi siapa paling konsisten memperbaiki diri tanpa kehilangan tawa.
 
 ### **4. Mulai Menulis Ulang Kisah Anda: Dua Langkah Praktis**
 
-Meskipun masa lalu tidak bisa diubah, saya menyadari bahwa cara saya memaknainya bisa. Ada dua langkah yang terus saya latih agar tetap tumbuh:
+1. **Eksternalisasi Masalah:**  
+   Saya berhenti berkata “saya gagal,” dan mulai berkata “program saya sedang *buggy*.”  
+   Versi ini lebih ringan di hati dan lebih mudah diperbaiki.
 
-#### Langkah 1: Eksternalisasi Masalah
-
-Saya belajar memisahkan identitas diri dari permasalahan yang saya hadapi. Alih-alih berpikir “saya gagal”, saya membingkai ulang menjadi “saya sedang berhadapan dengan tantangan yang bisa saya atasi.”
-Pergeseran cara berpikir ini mengubah rasa frustrasi menjadi ruang untuk analisis dan perbaikan. Di dunia teknologi yang penuh trial-error, kemampuan ini membuat saya lebih stabil dan berorientasi solusi.
-
-#### Langkah 2: Temukan Momen Berkilau
-
-Setiap kali saya merasa kehilangan arah, saya mencari kembali “momen berkilau” yang pernah saya alami:
-
-Ketika saya lolos ITB lewat jalur mandiri setelah gagal SNBT.
-
-Saat dipercaya menjadi mentor di TEC untuk program pembelajaran data science.
-
-Ketika tim saya memenangkan Juara 3 Hackathon, yang memperkuat keyakinan bahwa kerja keras kolektif dan visi yang jelas mampu mengubah tekanan menjadi prestasi.
-
-Momen-momen ini menjadi jangkar optimisme yang saya pegang, sekaligus bukti bahwa perubahan naratif selalu mungkin.
+2. **Temukan Momen Berkilau:**  
+   Saat lupa makan karena ngoding dan sadar jam sudah menunjukkan pukul 3 pagi—itu bukan lelah, itu *flow state* (katanya).
 
 ### **5. Kesimpulan: Kisah Saya Masih Terus Ditulis**
 
-Perjalanan saya hingga saat ini bukanlah kisah yang sempurna, tetapi kisah yang jujur. Saya belajar bahwa makna hidup tidak selalu datang dari hasil yang besar, tetapi dari proses memahami diri sendiri dan berkontribusi bagi sekitar.
-
-Teknologi mungkin adalah bahasa yang saya pilih untuk mengekspresikan diri, tetapi nilai yang ingin saya bawa jauh melampaui kode dan algoritma—yakni ketekunan, rasa syukur, dan kesadaran bahwa setiap keberhasilan adalah hasil dari perjuangan bersama.
-
-Saya percaya bahwa kisah saya baru saja dimulai.
-Dan seperti dalam setiap baris kode yang saya tulis, selalu ada ruang untuk perbaikan, pembaruan, dan versi yang lebih baik dari diri saya sendiri.
+Saya tidak tahu ke mana repositori hidup saya akan *push* selanjutnya, tapi saya tahu setiap *commit*—entah sukses atau gagal—adalah bagian dari versi terbaik diri saya yang terus diperbarui.  
+Teknologi hanyalah alat; manusia adalah algoritma yang belajar dari empati.  
+Dan saya? Masih di tahap *debugging life*, tapi kali ini dengan *humor log* yang aktif.

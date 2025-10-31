@@ -29,10 +29,10 @@ Berikut hasil penilaian terhadap portofolio saya sendiri:
 
 | UTS | Judul | Ringkasan Evaluasi | Skor |
 |-----|--------|--------------------|------|
-| **UTS-1** | *All About Me* |  | |
-| **UTS-2** | *My Songs for You* |  |  |
-| **UTS-3** | *My Stories for You* |  |  |
-| **UTS-4** | *My SHAPE* |  | |
+| **UTS-1** | *All About Me* |Narasi kuat, reflektif; humor ada tapi tipis.  |17.0/20 |
+| **UTS-2** | *My Songs for You* |Koneksi lagu–diri autentik; ada sisipan puisi & refleksi.  | 17.0/20 |
+| **UTS-3** | *My Stories for You* |Benang merah “redemption” & agensi konsisten  |17.0/20  |
+| **UTS-4** | *My SHAPE* |SHAPE lengkap (ringkasan, charter, 90-hari); bisa diringkas visual.  |17.0/20 |
 
 ---
 
@@ -40,20 +40,23 @@ Berikut hasil penilaian terhadap portofolio saya sendiri:
 
 | Kriteria | Skor |
 |-----------|------|
-| Pemahaman Konsep |  |
-| Analisis Kritis |  |
-| Argumentasi (Logos) |  |
-| Etos & Empati | N/A |
-| Rekomendasi |  |
-| **Total** | **** |
+| Pemahaman Konsep | 4 |
+| Analisis Kritis |  4 |
+| Argumentasi (Logos) | 4 |
+| Etos & Empati | 4 |
+| Rekomendasi | 4 |
+| **Total** | 20 |
 
 📝 **Alasan singkat:** 
-
+Menjelaskan metode (pakai ChatGPT), menyediakan TOC Self/Peer Assessment, ringkasan tabel skor, saran perbaikan, dan tautan.
 ---
 
 ### 5.2.3 Saran Perbaikan untuk Diri Sendiri
-
-- **Visual UTS-4:** Menambahkan tabel ringkasan *S-H-A-P-E* di awal halaman `My_Shapes/index.qmd` akan meningkatkan keterlibatan visual dan memperkuat struktur narasi.
+- Tambahkan “lapisan bukti” eksplisit (semua UTS): kutip kalimat/line yang jadi dasar klaim, lalu tafsirkan → kurangi vagueness. (Contoh UTS-1 kutip L69–L80 untuk “agensi”, lalu jelaskan batasnya.) 
+- UTS-4—Ringkasan visual 1 layar: tabel S-H-A-P-E + 3 KPI 90-hari (OKR mini) di very-top agar pembaca “menangkap” dalam 10 detik. 
+- Confirmation bias (UTS-2): sertakan lirik/interpretasi yang menentang pesan ketulusan Anda—lalu bantah dengan alasan. 
+- Narrative fallacy (UTS-1/3): tulis satu vignette “gagal tapi tidak romantis”—apa pelajaran tanpa happy ending? 
+- TS-5—Tautan data & metrik: saat menilai peer, lampirkan skor per kriteria + rujukan bagian/line; rumuskan 1 action item terukur per peer (owner, due date, success metric). 
 
 ---
 
