@@ -1,110 +1,93 @@
 # UTS-1 All About Me
 
-![About Me](../images/AZRL.png){width=950%}
+![About Me](../images/profile-pict.png){width=950%}
 
-Armein Z R Langi adalah Guru Besar di Sekolah Teknik Elektro dan Informatika ITB, dosen ITB sejak Desember 1987, mantan Rektor Universitas Kristen Maranatha, 1 Maret 2016 s/d 29 Februari 2020, mantan Kepala Pusat Penelitian Teknologi Informasi dan Komunikasi (PP-TIK) ITB November 2005 s/d Maret 2010, dan Sekretaris MWA ITB Mei 2010-Jan 2011.
+Muhammad Farrel Wibowo adalah mahasiswa Teknik Informatika Institut Teknologi Bandung angkatan 2023. Lahir di Jakarta pada 18 Juni 2005, kini menetap di Jatinangor untuk menjalani aktivitas perkuliahan, sementara rumah keluarganya masih berada di Jakarta.
+Sejak kecil Farrel sudah akrab dengan dunia teknologi—mulai dari smartphone, komputer, hingga internet—yang menumbuhkan rasa ingin tahu tentang bagaimana teknologi bekerja dan bagaimana ia dapat mengubah kehidupan manusia.
 
-Lahir di Tomohon 1962 dari pasangan Manado dan Sunda. Saat ini tinggal di Bandung, menikah dengan Ina dan dikaruniai empat anak. Ayah dari Gladys, Kezia, Andria, dan Marco.
-
-Sharing pikiran singkat ada di blog <https://azrl.wordpress.com>. Facebookk: armein_langi
-
-Apa gagasan yang sedang ia pikirkan?
+Sehari-hari, Farrel dikenal sebagai sosok yang disiplin, pekerja keras, dan reflektif. Ia memiliki berbagai hobi seperti olahraga gym, fotografi, otomotif, videografi, dan tenis. Namun di balik banyaknya minat tersebut, benang merah yang mengikat semuanya adalah rasa ingin belajar dan berkembang secara berkelanjutan.
 
 
 ## **Kisah yang Membentuk Diri Anda: Mengenal Kekuatan Identitas Naratif**
 
-Manusia adalah pencerita alami. Sejak zaman dahulu, kita selalu berusaha memahami kekacauan hidup dengan merangkainya menjadi sebuah cerita. Para ahli bahkan menyebut kita sebagai "organisme pencerita" (*storytelling organisms*) yang menjalani "kehidupan yang penuh cerita" (*storied lives*) (2). Proses ini bukanlah sekadar menyusun fakta, melainkan sebuah proses aktif untuk menciptakan makna.
+Saya percaya bahwa setiap orang adalah pencerita alami yang menenun kehidupannya menjadi sebuah kisah. Bagi saya, kisah itu dimulai dari rasa ingin tahu yang sederhana terhadap teknologi, lalu berkembang menjadi perjalanan penuh pembelajaran, perjuangan, dan pemaknaan diri.
 
-[Hayu dengar poscastnya](./audio/Identitas_Naratif__Jadi_Sutradara_dan_Penulis_Kisah_Hidup_Anda_.mp4)
+Di masa SMA di MAN 4 Jakarta, saya mengambil jurusan Sains dan Matematika dengan kurikulum Cambridge AS Level. Dari situlah saya mulai memadukan logika dengan kreativitas. Saya bergabung di klub robotika dan klub teknologi informasi, di mana saya belajar membangun robot serta memprogramnya dengan Arduino IDE. Salah satu momen berharga adalah ketika tim saya berhasil meraih medali perak pada ASEAN Innovative Science & Entrepreneur Fair (AISEF) berkat proyek Early Warning Flood System berbasis Arduino, Wi-Fi, dan Blynk.
+Kemenangan itu bukan sekadar prestasi, tetapi momen berkilau—saat saya menyadari bahwa teknologi bukan hanya tentang kode dan alat, melainkan tentang solusi yang menyentuh kehidupan manusia.
 
-Kisah personal yang terus berkembang inilah yang disebut para psikolog sebagai **"identitas naratif"**—sebuah cerita yang kita bangun untuk memahami keberadaan kita, dengan menghubungkan masa lalu, masa kini, dan masa depan kita menjadi satu kesatuan yang utuh (3, 8). Cerita batin ini adalah proses *penciptaan diri* yang aktif, bukan sekadar menceritakan ulang kejadian. Kisah inilah yang menjawab pertanyaan-pertanyaan paling mendasar: "Siapa saya? Bagaimana saya sampai di sini? Ke mana saya akan pergi?" (5, 6).
 
 ### **1. Tiga Lapisan Diri Anda: Di Mana Cerita Hidup Anda Berada?**
 
-Psikolog Dan P. McAdams membagi kepribadian manusia ke dalam tiga tingkatan yang berbeda. Identitas naratif merupakan tingkatan tertinggi dan paling personal, yang menyatukan semua bagian lain dari diri kita (8).
+Mengikuti kerangka dari Dan P. McAdams, saya bisa memetakan perjalanan diri saya sebagai berikut:
 
--   **Level 1: Sifat Dasar** Ini adalah ciri-ciri umum kepribadian kita yang cenderung stabil, seperti apakah kita seorang *introvert* atau *ekstrovert*.
+Level 1: Sifat Dasar. Saya cenderung disiplin, logis, dan berorientasi pada hasil. Namun, di balik itu saya juga reflektif dan tenang—lebih banyak mengamati sebelum bertindak.
 
--   **Level 2: Kepedulian Pribadi** Ini mencakup hal-hal yang lebih spesifik seperti tujuan hidup, nilai-nilai yang kita pegang, dan keyakinan kita.
+Level 2: Kepedulian Pribadi. Nilai yang saya pegang adalah tanggung jawab terhadap proses dan keberanian untuk menghadapi kegagalan. Saya percaya bahwa setiap kesalahan adalah bentuk pembelajaran yang penting.
 
--   **Level 3: Identitas Naratif** Inilah kisah hidup yang kita ciptakan untuk mengikat Level 1 dan 2 menjadi sebuah narasi yang koheren dan bermakna. Ini adalah cerita tentang "diri" kita.
+Level 3: Identitas Naratif. Inilah titik di mana seluruh lapisan diri saya bertemu. Saya melihat diri saya sebagai seseorang yang terus belajar dari masa lalu, memperjuangkan apa yang diinginkan, dan berusaha berkontribusi lewat teknologi yang bermanfaat bagi orang lain.
 
-Wawasan paling memberdayakan dari konsep ini adalah: meskipun kita mungkin tidak dapat dengan mudah mengubah sifat dasar kita (Level 1), kita *memiliki kekuatan* untuk belajar mengubah cerita yang kita sampaikan tentang hidup kita (Level 3). Perubahan narasi ini terbukti memiliki dampak besar pada kesejahteraan dan kebahagiaan kita (9).
+Salah satu peristiwa yang paling membentuk identitas saya adalah ketika saya gagal masuk perguruan tinggi melalui jalur SNBT. Kegagalan itu sempat menimbulkan rasa kecewa, tetapi justru menjadi titik balik. Saya belajar untuk bangkit, berjuang kembali melalui jalur Mandiri ITB, dan akhirnya diterima di jurusan impian saya. Perjalanan itu mengajarkan bahwa hasil besar tidak datang dari keberuntungan, melainkan dari konsistensi dan keyakinan.
 
-Namun, tidak semua cerita diciptakan sama. Mari kita lihat pola-pola naratif yang dapat membuat sebuah kisah hidup menjadi lebih memberdayakan.
 
 ### **2. Pola-Pola Kisah Kehidupan: Apa yang Membuat Sebuah Cerita Bermanfaat?**
 
-Penelitian menunjukkan bahwa tidak semua cerita yang kita bangun sama-sama bermanfaat bagi kesehatan mental kita (4). Beberapa tema naratif secara konsisten terhubung dengan kehidupan yang lebih sejahtera dan berkembang.
+Cerita hidup saya mencerminkan pola penebusan (redemption)—dari kegagalan menuju keberhasilan, dari keterbatasan menuju kesempatan baru. Kegagalan masuk kampus favorit bukan akhir cerita, tetapi bab pembuka dari narasi yang lebih bermakna.
+Kini, setelah menjadi mahasiswa, saya juga mulai mengembangkan pola agensi dan koneksi, di mana peran saya tidak lagi sebatas individu yang berjuang, tetapi bagian dari ekosistem yang saling tumbuh bersama.
 
-#### Penebusan vs. Kontaminasi: Mengubah Penderitaan Menjadi Kekuatan
+|                                         |                                                                                                                                                     |
+| --------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Pola Naratif**                        | **Dampak Psikologis dan Pembelajaran Pribadi**                                                                                                      |
+| **Penebusan** (Negatif → Positif)       | Gagal di SNBT menjadi titik balik untuk membangun ketekunan dan rasa percaya diri dalam meraih ITB melalui jalur mandiri.                           |
+| **Agensi** (Diri sebagai Aktor Efektif) | Mengembangkan kemampuan kepemimpinan, pengambilan keputusan, dan inisiatif, seperti saat memimpin proyek di TEC dan mengikuti hackathon.            |
+| **Koneksi** (Hubungan & Rasa Memiliki)  | Menemukan makna dalam kerja sama tim dan kontribusi kolektif, misalnya saat menjadi staf HMIF dan anggota ITB Jazz.                                 |
+| **Momen Berkilau**                      | Juara 3 **Hackathon** pertama saya di perkuliahan menjadi simbol bagaimana kolaborasi, kecepatan berpikir, dan disiplin teknis dapat membawa hasil. |
 
-Salah satu pola naratif yang paling penting adalah cara kita membingkai peristiwa sulit.
 
-**Cerita Penebusan (Redemption Story)** adalah narasi yang bergerak dari situasi negatif ke hasil yang positif (misalnya, kegagalan yang memberikan pelajaran berharga, atau penderitaan yang melahirkan kekuatan baru). Pola ini sangat kuat kaitannya dengan kebahagiaan, kepuasan hidup, dan resiliensi (7).
-
-**Cerita Kontaminasi (Contamination Story)** adalah kebalikannya. Cerita ini dimulai dari peristiwa baik yang kemudian berubah menjadi buruk. Kisah semacam ini seperti "tumpahan minyak yang meracuni air," menjebak sang pencerita dalam rasa sakit dan putus asa (3, 11).
-
-#### Agensi vs. Kepasifan: Menjadi Pahlawan dalam Kisah Anda
-
-Pola penting lainnya adalah peran yang kita ambil dalam cerita kita sendiri.
-
-**Agensi (Agency)** adalah ketika kita menampilkan diri sebagai aktor utama dalam cerita kita—seseorang yang secara aktif membuat keputusan, mengambil tindakan, dan mengatasi rintangan. Mengembangkan rasa agensi dalam cerita hidup adalah salah satu prediktor terkuat untuk perbaikan dalam terapi (3, 7).
-
-**Kepasifan (Passivity)** ditandai dengan perasaan menjadi korban keadaan. Dalam narasi ini, peristiwa seolah-olah "terjadi begitu saja pada" sang pencerita, yang digambarkan sebagai korban pasif dari takdir atau tindakan orang lain (8).
-
-Tabel berikut merangkum tema-tema naratif yang membangun dan merusak, beserta dampaknya bagi kesejahteraan kita.
-
-|  |  |
-|----|----|
-| Pola Naratif | Dampak Psikologis |
-| **Pola Naratif yang Membangun (Generative Themes)** |  |
-| **Penebusan** (Negatif → Positif) | Meningkatkan kebahagiaan, kepuasan hidup, resiliensi, dan *generativitas* (keinginan untuk berkontribusi pada kesejahteraan generasi mendatang) (4, 7). |
-| **Agensi** (Diri sebagai Aktor Efektif) | Meningkatkan kepercayaan diri, kesehatan mental, dan merupakan prediktor kuat perbaikan dalam terapi (7). |
-| **Koneksi** (Hubungan & Rasa Memiliki) | Meningkatkan kesejahteraan, mengurangi rasa kesepian, dan memberikan rasa memiliki tujuan hidup yang lebih besar (8). |
-| **Pola Naratif yang Merusak (Disruptive Themes)** |  |
-| **Kontaminasi** (Positif → Negatif) | Menurunkan kesejahteraan, menyebabkan depresi, keputusasaan, dan perasaan terperangkap dalam pengalaman negatif (3). |
-| **Kepasifan** (Diri sebagai Korban) | Menimbulkan perasaan menjadi korban, demotivasi, rasa tidak berdaya, depresi, dan hasil kesehatan mental yang buruk (8). |
-| **Isolasi** (Terputus dari Orang Lain) | Menyebabkan kesepian, keputusasaan, kurangnya dukungan sosial, dan meningkatkan kerentanan terhadap gangguan psikologis (8). |
-
-Lalu, bagaimana pikiran kita menciptakan pola-pola naratif ini? Jawabannya terletak pada sebuah proses kognitif yang luar biasa.
 
 ### **3. Seni Memberi Makna: Kekuatan Super Anda dalam Bernalar**
 
-Pikiran kita memiliki "mesin pembuat makna" yang disebut **penalaran otobiografis** (*autobiographical reasoning*). Inilah kemampuan kognitif yang memungkinkan kita menghubungkan peristiwa-peristiwa dalam hidup dengan identitas diri kita dan memahami signifikansinya (10).
+Saya tidak pernah menganggap kesalahan sebagai musuh, melainkan guru. Setiap kegagalan—baik dalam ujian, proyek, maupun keputusan—membentuk cara berpikir saya yang lebih tenang dan strategis. Selama berkuliah di ITB, saya menyadari bahwa menjadi mahasiswa bukan hanya tentang menguasai algoritma atau pemrograman, tetapi juga belajar bagaimana berpikir jernih di tengah tekanan dan berinteraksi dengan berbagai karakter.
 
-Tanpa penalaran ini, hidup kita hanyalah daftar kejadian. Dengan penalaran ini, hidup kita menjadi sebuah cerita yang bermakna.
+Momentum baru saya hadir ketika tim kami meraih Juara 3 Hackathon—lomba pertama saya selama kuliah. Selain validasi kerja tim, kompetisi ini memberikan pembelajaran yang sangat praktis:
 
-Temuan paling penting dari psikologi naratif adalah ini: **kemampuan kita untuk memaknai peristiwa sulit secara positif (misalnya, menemukan hikmah atau pelajaran) lebih berpengaruh pada kesejahteraan kita daripada peristiwa itu sendiri** (10). Ini bukan sifat bawaan, melainkan sebuah keterampilan yang bisa dipelajari dan dilatih.
+Framing masalah & scoping MVP: menajamkan batas solusi agar berdampak nyata dalam waktu terbatas.
 
-Memahami hal ini memberi kita kekuatan. Langkah-langkah berikutnya adalah latihan praktis untuk mengasah 'mesin pembuat makna' ini dan menjadi penulis yang lebih sadar atas kisah hidup kita sendiri.
+Kolaborasi teknis di bawah tekanan waktu: branching Git yang rapi, code review singkat namun tegas, dan keberanian membuat trade-off teknis.
+
+Integrasi cepat & reliability dasar: mengikat API, merapikan error handling, serta memastikan demo berjalan stabil.
+
+Storytelling produk: menyusun pitch yang jelas—dari problem statement, insight pengguna, ke nilai guna—tanpa gimmick berlebihan.
+
+Pengalaman ini menegaskan kembali bahwa agensi bukan semata kemampuan teknis, melainkan keputusan-keputusan kecil yang konsisten: memilih prioritas, menjaga ritme tim, dan bertanggung jawab atas kualitas hasil.
+
+Kesadaran terbesar saya tetap sama: dunia ini tidak berputar di sekitar diri saya sendiri. Setiap orang memiliki kisah, perjuangan, dan maknanya masing-masing. Menyadari hal ini membuat saya lebih menghargai keberagaman dan lebih rendah hati dalam proses belajar maupun berorganisasi. Dari sinilah lahir keseimbangan antara ambisi dan empati.
 
 ### **4. Mulai Menulis Ulang Kisah Anda: Dua Langkah Praktis**
 
-Meskipun kita tidak bisa mengubah masa lalu, kita memiliki kekuatan luar biasa untuk mengubah *cerita* yang kita sampaikan tentang masa lalu itu (29). Berikut adalah dua langkah praktis yang terinspirasi dari Terapi Naratif untuk memulai proses ini.
+Meskipun masa lalu tidak bisa diubah, saya menyadari bahwa cara saya memaknainya bisa. Ada dua langkah yang terus saya latih agar tetap tumbuh:
 
-#### Langkah 1: Pisahkan Diri Anda dari Masalah
+#### Langkah 1: Eksternalisasi Masalah
 
-Teknik ini disebut **eksternalisasi masalah**. Caranya adalah dengan mengubah cara kita berbicara tentang masalah kita.
+Saya belajar memisahkan identitas diri dari permasalahan yang saya hadapi. Alih-alih berpikir “saya gagal”, saya membingkai ulang menjadi “saya sedang berhadapan dengan tantangan yang bisa saya atasi.”
+Pergeseran cara berpikir ini mengubah rasa frustrasi menjadi ruang untuk analisis dan perbaikan. Di dunia teknologi yang penuh trial-error, kemampuan ini membuat saya lebih stabil dan berorientasi solusi.
 
-Misalnya, alih-alih berpikir, *"Saya adalah orang yang pencemas,"* coba bingkai ulang menjadi, *"Saya adalah orang yang sedang berhadapan dengan pengaruh kecemasan"* (35).
+#### Langkah 2: Temukan Momen Berkilau
 
-Pergeseran bahasa yang sederhana ini menciptakan jarak psikologis. Masalah tidak lagi menjadi bagian inti dari identitas Anda, melainkan sesuatu di luar diri Anda yang bisa diamati, dipahami, dan dihadapi. Ini membuat masalah terasa jauh lebih bisa dikelola.
+Setiap kali saya merasa kehilangan arah, saya mencari kembali “momen berkilau” yang pernah saya alami:
 
-#### Langkah 2: Temukan "Momen Berkilau" Anda
+Ketika saya lolos ITB lewat jalur mandiri setelah gagal SNBT.
 
-Setelah Anda memisahkan diri dari masalah, langkah selanjutnya adalah mencari bukti yang bertentangan dengan "cerita yang penuh masalah" tersebut. Dalam Terapi Naratif, ini disebut *unique outcomes* atau yang bisa kita sebut **momen berkilau** (*sparkling moments*).
+Saat dipercaya menjadi mentor di TEC untuk program pembelajaran data science.
 
-Ini adalah momen-momen, sekecil apa pun, di mana masalah tersebut tidak berkuasa atas diri Anda. Tanyakan pada diri Anda:
+Ketika tim saya memenangkan Juara 3 Hackathon, yang memperkuat keyakinan bahwa kerja keras kolektif dan visi yang jelas mampu mengubah tekanan menjadi prestasi.
 
-"Ingatkah saat di mana 'Si Pengkritik' dalam diri Anda muncul, tetapi Anda tetap berhasil bertindak dengan percaya diri?" (36)
+Momen-momen ini menjadi jangkar optimisme yang saya pegang, sekaligus bukti bahwa perubahan naratif selalu mungkin.
 
-Atau, "Apakah ada momen ketika 'rasa malas' mencoba mengambil alih, tetapi Anda tetap berhasil menyelesaikan tugas itu?"
+### **5. Kesimpulan: Kisah Saya Masih Terus Ditulis**
 
-Momen-momen berkilau ini adalah bukti nyata dari kekuatan, nilai, dan ketahanan Anda. Mereka adalah bahan mentah yang dapat Anda gunakan untuk mulai menenun sebuah cerita baru yang lebih kuat dan lebih memberdayakan.
+Perjalanan saya hingga saat ini bukanlah kisah yang sempurna, tetapi kisah yang jujur. Saya belajar bahwa makna hidup tidak selalu datang dari hasil yang besar, tetapi dari proses memahami diri sendiri dan berkontribusi bagi sekitar.
 
-### **5. Kesimpulan: Kisah Anda Adalah Perjalanan yang Terus Berlanjut**
+Teknologi mungkin adalah bahasa yang saya pilih untuk mengekspresikan diri, tetapi nilai yang ingin saya bawa jauh melampaui kode dan algoritma—yakni ketekunan, rasa syukur, dan kesadaran bahwa setiap keberhasilan adalah hasil dari perjuangan bersama.
 
-Pada akhirnya, kita semua adalah penulis kisah hidup kita sendiri. Cerita yang kita sampaikan kepada diri kita sendiri secara aktif menciptakan realitas kita (5). Kisah hidup yang sehat ditandai oleh tema-tema penebusan, di mana kesulitan diubah menjadi pertumbuhan, dan agensi, di mana kita menjadi pahlawan dalam perjalanan kita sendiri.
-
-Tujuannya bukanlah untuk menulis sebuah cerita yang "sempurna" dan tanpa cela. Tujuannya adalah untuk menumbuhkan keberanian untuk terus menulis, terus mencari makna, dan menjadi penulis sebuah kisah hidup yang berani, jujur, dan layak untuk diceritakan.
+Saya percaya bahwa kisah saya baru saja dimulai.
+Dan seperti dalam setiap baris kode yang saya tulis, selalu ada ruang untuk perbaikan, pembaruan, dan versi yang lebih baik dari diri saya sendiri.
