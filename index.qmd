@@ -1,6 +1,6 @@
 # Selamat Berjumpa {.unnumbered}
 
-![About Me](../images/profile-pict.png){width=950%}
+![About Me](../images/profile-pict.jpeg){width=950%}
 
 Muhammad Farrel Wibowo adalah mahasiswa Teknik Informatika Institut Teknologi Bandung angkatan 2023. Lahir di Jakarta pada 18 Juni 2005, kini menetap di Jatinangor untuk menjalani aktivitas perkuliahan, sementara rumah keluarganya masih berada di Jakarta.
 Sejak kecil Farrel sudah akrab dengan dunia teknologi—mulai dari smartphone, komputer, hingga internet—yang menumbuhkan rasa ingin tahu tentang bagaimana teknologi bekerja dan bagaimana ia dapat mengubah kehidupan manusia.
