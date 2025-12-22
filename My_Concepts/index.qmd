@@ -1,6 +1,25 @@
 # UAS-1 My Concepts
-Mau hidup epik ? [Write your Life Story](lifestory.pdf)
 
-Apa itu berkonsep? 
+**Air sebagai Simpul Kehidupan: Krisis Air Bersih dan Sanitasi sebagai Krisis Relasi Manusia–Manusia dan Manusia–Lingkungan**
 
-{{< video https://youtu.be/QVfUlVBO80U?si=yM6q_rwV9rcDBbu7>}}
+Konsep saya memandang krisis air bersih dan sanitasi bukan semata sebagai persoalan ketersediaan sumber daya alam, melainkan sebagai *krisis relasi dan koordinasi* dalam sistem kehidupan manusia. Air bukan hanya objek fisik, tetapi **medium relasional** yang menghubungkan kesehatan, martabat, pendidikan, produktivitas, dan keberlanjutan sosial.
+
+Dalam kerangka ini, krisis air terjadi ketika hubungan antara tiga entitas utama—*manusia, lingkungan, dan sistem sosial*—kehilangan keseimbangan dan makna bersama. Air yang seharusnya menjadi pemersatu justru berubah menjadi penanda ketimpangan.
+
+Konsep ini dapat dipahami melalui tiga lapisan keterhubungan:
+
+### 1. Dimensi Manusia (Relasi Interpersonal dan Sosial)
+
+Akses terhadap air bersih dan sanitasi menentukan kualitas interaksi manusia dengan sesamanya. Ketika sanitasi tidak layak, muncul *stigma*, *keterasingan*, dan *ketidaksetaraan*—terutama bagi perempuan dan anak. Krisis air dengan demikian adalah **krisis komunikasi sosial**, di mana kelompok terdampak kehilangan suara, visibilitas, dan daya tawar dalam ruang publik.
+
+### 2. Dimensi Sistem (Relasi Manusia dan Struktur)
+
+Krisis air mencerminkan **kegagalan sistemik** dalam pengelolaan, distribusi, dan prioritas kebijakan. Air tersedia secara alamiah, tetapi sistem sosial gagal menerjemahkannya menjadi akses yang adil. Di sini, air menjadi indikator sejauh mana sebuah masyarakat mampu mengoordinasikan kepentingan ekonomi, politik, dan kemanusiaan secara berimbang.
+
+### 3. Dimensi Lingkungan (Relasi Manusia dan Alam)
+
+Air adalah representasi paling konkret dari keterbatasan alam. Ketika eksploitasi, pencemaran, dan pengelolaan yang tidak berkelanjutan terjadi, krisis air menjadi **umpan balik ekologis** atas relasi manusia yang eksploitatif. Dengan demikian, krisis air adalah sinyal bahwa relasi manusia–lingkungan telah bergeser dari *keberlanjutan* menuju *dominasi*.
+
+---
+
+Melalui konsep ini, krisis air bersih dan sanitasi dipahami sebagai **fenomena sosio-ekologis**, bukan sekadar masalah teknis. Penyelesaiannya menuntut *pemulihan relasi*: antarindividu, antara masyarakat dan sistem, serta antara manusia dan alam. Tanpa pemulihan relasi tersebut, solusi teknologis apa pun berisiko menjadi sementara dan eksklusif.
