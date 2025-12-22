@@ -1,7 +1,91 @@
-## UAS-4 My Knowledge
+# UAS-4 My Knowledge
 
-Cara saya mengkomunikasikan sebuah pengatahuan sebagai petunjuk bagi orang lain
-1) saya tulis [makalah sebagai bahan utama](Rekomendasi%20Presentasi%20Efektif(Contoh%20Makalah).pdf)
-2) lalu saya buat [transkrip ucapan lisan](Contoh%20Transkrip%20Presentasi.pdf)
-3) kemudian saya kembangkan [slide pendukung trnsskrip](Rekomendasi%20Presentasi%20(Contoh%20Slides).pdf)
-4) lalu saya memproduksivideo audio visual {{< video https://youtu.be/ZbghfMvnPZc>}} {{< video https://youtu.be/ZbghfMvnPZc>}}
+**Pemahaman Pribadi terhadap Krisis Air Bersih dan Sanitasi**
+
+Sebagai mahasiswa, saya memahami krisis air bersih dan sanitasi bukan hanya sebagai isu teknis, tetapi sebagai persoalan mendasar yang berkaitan dengan cara masyarakat dan negara menetapkan prioritas pembangunan. Air bersih dan sanitasi berada di titik pertemuan antara kebutuhan dasar manusia, kebijakan publik, serta cara suatu sistem sosial dijalankan. Dari pemahaman ini, saya melihat bahwa krisis yang terjadi lebih mencerminkan **persoalan tata kelola dan keberpihakan**, bukan semata keterbatasan sumber daya.
+
+---
+
+### Air Bersih sebagai Fondasi Kehidupan, Bukan Sekadar Layanan Teknis
+
+Pengetahuan paling dasar yang saya pahami adalah bahwa air bersih dan sanitasi merupakan **fondasi** bagi hampir seluruh aspek kehidupan.
+
+- Tanpa air bersih, kesehatan masyarakat sulit terjaga
+- Tanpa sanitasi layak, risiko penyakit meningkat dan kualitas hidup menurun
+- Dampaknya tidak berhenti pada kesehatan, tetapi juga pendidikan dan produktivitas
+
+Karena itu, saya melihat bahwa kegagalan menyediakan air bersih dan sanitasi mencerminkan *kegagalan dalam melindungi kebutuhan paling mendasar manusia*.
+
+---
+
+### Ketimpangan Akses sebagai Masalah Sosial dan Kebijakan
+
+Saya memahami bahwa krisis air bersih tidak dialami secara merata. Kelompok miskin dan masyarakat di wilayah terpencil menjadi pihak yang paling terdampak.
+
+- Ketimpangan ini tidak selalu disebabkan oleh kondisi alam
+- Dalam banyak kasus, keputusan kebijakan dan arah pembangunan berperan besar
+- Wilayah yang dianggap kurang "strategis" sering kali tidak menjadi prioritas
+
+Dari sini, saya melihat krisis air bersih dan sanitasi sebagai **persoalan keadilan sosial**, bukan sekadar persoalan teknis.
+
+---
+
+### Peran Informasi dan Data dalam Menentukan Prioritas
+
+Dari pengetahuan umum dan pembelajaran lintas bidang, saya memahami bahwa kebijakan yang baik membutuhkan informasi yang jelas dan dapat dipercaya.
+
+- Data tentang kondisi air dan sanitasi sering kali ada, tetapi tidak selalu digunakan secara optimal
+- Ketika kebutuhan masyarakat tidak tergambar dengan jelas dalam data dan laporan, maka kebutuhan tersebut mudah diabaikan
+- Akibatnya, pembangunan cenderung mengikuti kepentingan yang lebih terlihat atau lebih menguntungkan secara ekonomi
+
+Di sini, pengetahuan saya di bidang informatika membantu saya memahami bahwa masalah sering kali bukan ketiadaan data, melainkan **bagaimana data tersebut digunakan** dalam pengambilan keputusan.
+
+---
+
+### Pentingnya Keterlibatan Masyarakat
+
+Saya memahami bahwa program apa pun akan sulit berkelanjutan jika masyarakat hanya diposisikan sebagai penerima.
+
+- Tanpa keterlibatan, masyarakat tidak memiliki *rasa memiliki*
+- Tanpa rasa memiliki, sistem yang dibangun sulit dijaga dan dipertahankan
+- Hal ini sering terjadi pada fasilitas air dan sanitasi yang akhirnya terbengkalai
+
+Pengetahuan ini tidak hanya berasal dari bidang teknis, tetapi juga dari pemahaman umum tentang bagaimana manusia berinteraksi dengan kebijakan dan lingkungan sekitarnya.
+
+---
+
+### Komunikasi sebagai Faktor Penentu Keberhasilan
+
+Saya juga memahami bahwa komunikasi memegang peran penting dalam keberhasilan program publik.
+
+- Kebijakan yang disampaikan dengan bahasa sulit dipahami akan sulit diterima
+- Komunikasi satu arah membuat masyarakat merasa jauh dari proses pengambilan keputusan
+- Ketika masyarakat tidak memahami tujuan kebijakan, perubahan perilaku menjadi sulit terjadi
+
+Dalam konteks ini, kegagalan sering kali bukan pada masyarakat, melainkan pada **cara kebijakan dikomunikasikan**.
+
+---
+
+### Keberlanjutan sebagai Ukuran Keberhasilan
+
+Saya memahami bahwa keberhasilan program air bersih dan sanitasi tidak cukup diukur dari jumlah fasilitas yang dibangun.
+
+- Sistem harus dapat digunakan dan dirawat dalam jangka panjang
+- Harus ada kejelasan peran dan tanggung jawab setelah proyek selesai
+- Tanpa keberlanjutan, solusi hanya bersifat sementara
+
+Pandangan ini memperkuat keyakinan saya bahwa air bersih dan sanitasi perlu ditempatkan sebagai bagian dari **perencanaan jangka panjang**, bukan sekadar target proyek.
+
+---
+
+### Posisi Pribadi sebagai Mahasiswa
+
+Sebagai mahasiswa Teknik Informatika, saya menyadari bahwa peran saya bukan sebagai ahli air atau pembuat kebijakan. Namun, latar belakang saya membantu saya memahami pentingnya *sistem yang tertata*, *informasi yang jelas*, dan *pengambilan keputusan yang berbasis kebutuhan nyata*.
+
+Dengan pemahaman ini, saya melihat krisis air bersih dan sanitasi sebagai **persoalan bersama** yang membutuhkan perubahan cara berpikir, bukan hanya penambahan solusi teknis.
+
+---
+
+### Penutup
+
+Berdasarkan pengetahuan dan pemahaman yang saya miliki, krisis air bersih dan sanitasi merupakan cerminan dari cara pembangunan menetapkan prioritas. Selama kebutuhan paling mendasar manusia belum ditempatkan sebagai fondasi utama, *krisis ini akan terus berulang*. Pemahaman ini melengkapi opini dan inovasi yang telah saya sampaikan sebelumnya, serta menegaskan pentingnya pendekatan yang **lebih adil dan berorientasi pada manusia**.
