@@ -1,2 +1,6 @@
 ## UAS-5 My Professional Reviews
-Untuk melAkukan review, seperti pada [pendekatan AI](../My_Personal_Reviews/Doc.5.Mengevaluasi-Esai-Berdasarkan-Rubrik.pdf), kita membutuhkan rubrik
+### Data Skor UAS-5
+
+Berikut adalah data skor UAS-5 yang dapat diunduh:
+
+📊 [Download File Excel UAS-5_Skor.xlsx](UAS-5_Skor.xlsx)
